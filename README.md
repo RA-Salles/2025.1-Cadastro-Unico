@@ -38,6 +38,9 @@ A equipe responsável pelo desenvolvimento deste projeto é composta por:
 ## Referências
 > - Inscrever-se no cadastro único. Disponível em: <https://www.gov.br/pt-br/servicos/inscrever-se-no-cadastro-unico-para-programas-sociais-do-governo-federal>. Acesso em: 25 abr. 2025.
 
+## Observações
+
+Isso foi feito para arquivar o trabalho realizado, independetemente do que ocorra com o repositório atual.
 
 ## Histórico de Versão
 
