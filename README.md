@@ -1,4 +1,11 @@
-<!--Forked from the OG, as proof of my bloody work. And bloody it fucking was, brother!-->
+<!-- 
+
+Forked from the OG, as proof of my bloody work. And bloody it fucking was, brother!
+
+I really dislike the idea of 6 months of puking blood every single day vanishing
+out in a click of a button. This is my answer.
+
+-->
 # Cadastro Único - Grupo 4
 
 <p align="center"><strong>Figura 1:</strong> Logomarca do Aplicativo Cadastro Único</p>
